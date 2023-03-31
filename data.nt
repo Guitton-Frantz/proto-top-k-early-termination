@@ -1,0 +1,44 @@
+<http://example.com/product1> <http://example.com/price> "45".
+<http://example.com/product1> <http://example.com/tax> "5".
+
+<http://example.com/product2> <http://example.com/price> "52".
+<http://example.com/product2> <http://example.com/tax> "3".
+
+<http://example.com/product3> <http://example.com/price> "49".
+<http://example.com/product3> <http://example.com/tax> "4".
+
+<http://example.com/product4> <http://example.com/price> "46".
+<http://example.com/product4> <http://example.com/tax> "5".
+
+<http://example.com/product5> <http://example.com/price> "53".
+<http://example.com/product5> <http://example.com/tax> "2".
+
+<http://example.com/product6> <http://example.com/price> "52".
+<http://example.com/product6> <http://example.com/tax> "3".
+
+<http://example.com/product7> <http://example.com/price> "47".
+<http://example.com/product7> <http://example.com/tax> "6".
+
+<http://example.com/product8> <http://example.com/price> "48".
+<http://example.com/product8> <http://example.com/tax> "6".
+
+<http://example.com/product9> <http://example.com/price> "51".
+<http://example.com/product9> <http://example.com/tax> "4".
+
+<http://example.com/product10> <http://example.com/price> "49".
+<http://example.com/product10> <http://example.com/tax> "5".
+
+<http://example.com/product11> <http://example.com/price> "48".
+<http://example.com/product11> <http://example.com/tax> "5".
+
+<http://example.com/product12> <http://example.com/price> "52".
+<http://example.com/product12> <http://example.com/tax> "3".
+
+<http://example.com/product13> <http://example.com/price> "51".
+<http://example.com/product13> <http://example.com/tax> "4".
+
+<http://example.com/product14> <http://example.com/price> "46".
+<http://example.com/product14> <http://example.com/tax> "5".
+
+<http://example.com/product15> <http://example.com/price> "47".
+<http://example.com/product15> <http://example.com/tax> "8".
