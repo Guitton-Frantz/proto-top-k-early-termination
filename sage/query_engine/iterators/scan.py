@@ -24,7 +24,7 @@ class ScanIterator(PreemptableIterator):
         The triple pattern to evaluate.
     muc: None | Mappings - (default = None)
         The current state of variables.
-    mu: None | Mappings - (default = None)
+    mu: None | Mappings - (default = None)
         The last triple read when the preemption occured. Note that this triple
         has not been produced by the iterator, and must be the next to be produce.
     last_read: None | str - (default = None)
